@@ -4,4 +4,4 @@
 database connectors/drivers, protocols and synchronization primitives for fast and
 comfortable creation of IO-bound C++ microservices, services and utilities.
 
-<p align="right">Speed of C++, simplicity of Python, coroutine model of Go.</p>
+<p align="right">Speed of C++, simplicity of Python.</p>
